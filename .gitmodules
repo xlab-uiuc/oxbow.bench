@@ -1,6 +1,6 @@
 [submodule "micro"]
 	path = micro
-	url = git@github.com:yulistic-benchmarks/FS_microbench.git
+	url = https://github.com/yulistic-benchmarks/FS_microbench.git
 [submodule "uFS-bench"]
 	path = uFS-bench
-	url = git@github.com:leesecre/uFS.git
+	url = https://github.com/leesecre/uFS.git
